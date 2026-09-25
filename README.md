@@ -1,0 +1,2 @@
+# AliyaDlcMod
+修复aliyadb上的Aliya未完成dlc的mod到可玩状态
