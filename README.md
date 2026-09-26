@@ -22,9 +22,9 @@
 
 - 自动进入 DLC：启动进主界面后自动开始 DLC 剧情
 - DLC 进度随游戏存档保存/读档恢复，无需重复推进
-- 快捷键：游戏内按`F9`可开始 DLC 流程
-  （若需关闭自动进入，在`BepInEx\config`中设置`AutoEnterDLC=false`，
-  并在`BepInEx\plugins`目录放置`.enter_dlc`文件手动触发）
+- 快捷键：游戏内按F9可开始 DLC 流程
+  （若需关闭自动进入，在BepInEx\config中设置AutoEnterDLC=false，
+  并在BepInEx\plugins目录放置.enter_dlc文件手动触发）
 
 ## 反馈
 
