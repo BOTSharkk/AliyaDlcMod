@@ -1,21 +1,35 @@
-DLC DATA LICENSE
-================
+DLC DATA — 权利说明
+====================
 
-The files under this directory (flow chart data, story text and images,
-collectively "DLC Data") originate from the video game 《彼方的她-Aliya》
-and are NOT covered by the MIT license of this repository.
+本文件不是许可证，也不授予任何权利。它只说明 DlcData 的权利归属。
 
-Copyright (C) TDGame Studio. All rights reserved.
+适用范围
+--------
+本仓库及发布包中 DlcData 目录下的全部内容（BepInEx/plugins/DlcData/**），
+包括流程图数据（flows/*.json）、剧情文本与图片（images/*.png）。
 
-The DLC Data are provided solely for personal study and research.
-You MAY:
-  - install and play the restored DLC content locally
+权利归属
+--------
+上述内容的著作权属于《彼方的她-Aliya》的开发方 TDGame Studio。
+本项目作者不享有这些内容的著作权，也不对其主张任何权利或所有权。
 
-You may NOT:
-  - redistribute or republish the DLC Data (in whole or in part)
-  - use them in any commercial purpose
-  - use them in any other game, product or derivative work
-  - claim ownership of the DLC Data
+本项目未获得权利人的授权或许可
+------------------------------
+本项目作者无权就上述内容向任何人授予许可，本文件不构成任何形式的授权或同意。
+因此：
 
-If you are the copyright holder and wish this content to be removed,
-please contact the repository owner and it will be taken down promptly.
+- 从本项目获取 DlcData 的使用者，不会从本项目获得关于上述内容的任何权利；
+- 上述内容可以如何使用，只能由权利人 TDGame Studio 决定；
+- 再分发、公开传播或商业使用上述内容存在侵权风险，本项目不对此作任何保证或背书；
+- 如需使用上述内容，请自行联系权利人取得许可。
+
+不提供保证
+----------
+本项目作者不对上述内容的权利状态、来源合法性作出任何保证，
+也不对第三方就该内容提出的权利主张承担责任。
+
+下架承诺
+--------
+如权利人 TDGame Studio 或任何权利人认为本项目侵犯其权利，
+请通过 GitHub Issue 或直接联系仓库作者（GitHub: @BOTSharkk）。
+本项目将在收到通知后立即移除相关内容。
